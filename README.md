@@ -1,9 +1,9 @@
 # Projet TRICE – Conception et analyse d’une application de transport intelligente
 
 ## Description
-Ce projet a été réalisé dans le cadre du module TRICE (Technologies, Recherche et Innovation en Contexte Éducatif) en L3 MIAGE – Décembre 2025.
+Ce projet a été réalisé dans le cadre du module Modélisation Objet en L3 MIAGE – Décembre 2025.
 
-Il consiste en une étude complète, structurée et professionnelle de la conception d’une application numérique de transport pour la société TRICE, intégrant :
+Il consiste en une étude complète, structurée et professionnelle de la conception d’une application numérique de transport pour la société TRICE, incluant :
 
 - une analyse approfondie des besoins métier
 - une modélisation fonctionnelle et UML détaillée
