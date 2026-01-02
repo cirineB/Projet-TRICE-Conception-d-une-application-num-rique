@@ -1,4 +1,4 @@
-# Projet TRICE – Plateforme numérique éducative
+# Projet TRICE – Conception et analyse d’une application de transport intelligente
 
 ## Description
 Ce projet a été réalisé dans le cadre du module TRICE (Technologies, Recherche et Innovation en Contexte Éducatif) en L3 MIAGE – Décembre 2025.
